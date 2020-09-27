@@ -1,6 +1,6 @@
 remote_theme : mmistakes/minimal-mistakes
 name: Jekyll site CI
-url                      : "https://jxchlee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jxchlee.github.io/index.js" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 on:
